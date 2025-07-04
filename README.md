@@ -2,7 +2,7 @@
 # 🎵 PrajnaPlayer - Python Music Player
 
 <p align="center">
-  <img src="image/screenshot.2025-04-17.PrajnaPlayer.jpg" alt="Screenshot of PrajnaPlayer" width="600">
+  <img src="image/screenshot.2025-04-17.PrajnaPlayer.png" alt="Screenshot of PrajnaPlayer" width="600">
 </p>
 
 ## 🇬🇧 English

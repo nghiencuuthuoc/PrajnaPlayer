@@ -1,0 +1,49 @@
+🎧 PRAJNAPLAYER v5 — NGHE KINH, BÀI GIẢNG, & GHI ÂM SIÊU NHẸ
+
+📿 Bạn muốn nghe Kinh, nghe bài giảng hoặc các bản ghi âm mỗi ngày mà không rối mắt bởi quá nhiều nút? PrajnaPlayer v5 (bản PharmApp) là trình phát âm thanh gọn nhẹ, chạy mượt, ưu tiên bàn phím và phát liên tục theo thư mục — lý tưởng cho thói quen nghe học.
+
+— — —
+
+⚡ TẠI SAO NÊN DÙNG?
+• Mở thư mục là phát liên tục: phù hợp playlist Kinh/bài giảng dài.  
+• Nhớ vị trí dừng: hôm sau mở lại, tiếp tục đúng chỗ.  
+• Tua/Âm lượng/Chuyển bài bằng phím: nhanh & tập trung.  
+• Siêu gọn, gần như không cần cài gì thêm (Python + Tkinter).  
+• Dữ liệu riêng tư: chỉ lưu file state.json nhỏ ngay trên máy.
+
+— — —
+
+🧭 CÁCH DÙNG (rất nhanh)
+1) Tải source: https://github.com/nghiencuuthuoc/PharmApp_PrajnaPlayer_v5_v11  
+2) Mở thư mục dự án → chạy:  python PrajnaPlayer_v5.py  
+(⛳ Tuỳ chọn: cài python-vlc nếu cần codec nâng cao — pip install python-vlc)
+
+— — —
+
+⌨️ PHÍM TẮT HỮU ÍCH
+• Space: Play/Pause  
+• N / P: Bài kế / Bài trước  
+• ← / →: Tua lùi / Tua tới  
+• ↑ / ↓: Tăng / Giảm âm lượng  
+• Ctrl+O: Mở thư mục  
+• Esc: Dừng / Đóng hộp thoại
+
+— — —
+
+🪶 DÀNH CHO NGƯỜI NGHE KINH/BÀI GIẢNG
+• Nghe liên tục theo từng bộ/khóa học, không bị gián đoạn.  
+• Tập trung nghe — thao tác bằng phím, hạn chế bấm chuột.  
+• Tiết kiệm thời gian: mở thư mục là phát, hôm sau tiếp tục ngay.
+
+— — —
+
+🔐 RIÊNG TƯ & MỞ
+• Không thu thập dữ liệu, không cần tài khoản.  
+• Mã nguồn mở (CC0-1.0): tự do dùng & tuỳ biến.
+
+— — —
+
+🤝 GÓP Ý
+Muốn thêm phím tắt, nút đánh dấu mốc, hay giao diện tối? Hãy mở issue/PR trên GitHub. Cộng đồng PharmApp sẵn sàng lắng nghe.
+
+#PrajnaPlayer #PharmApp #NgheKinh #BaiGiang #PhatHoc #Mindfulness #AudioPlayer #Python #Tkinter

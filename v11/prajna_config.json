@@ -1,0 +1,9 @@
+{
+  "sub_font_size": 20,
+  "volume": 85,
+  "sub_delay_ms": 5000,
+  "geometry": "1452x895+204+55",
+  "sub_linger_ms": 800,
+  "sub_min_hold_ms": 1200,
+  "sub_per_char_ms": 28
+}

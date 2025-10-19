@@ -5,7 +5,7 @@
   "sub_linger_ms": 800,
   "sub_min_hold_ms": 1200,
   "sub_per_char_ms": 28,
-  "geometry": "1070x723+178+115",
+  "geometry": "1920x1009+178+115",
   "allow_write_static": true,
   "state_autosave_ms": 30000
 }
